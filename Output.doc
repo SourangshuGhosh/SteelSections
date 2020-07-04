@@ -1,0 +1,511 @@
+Inputs:
+
+Factored shear is                             10.00 kN
+factored moment is                            15.00 kNm
+Effective span is                             5.00 m
+yield stress is                               250.00 Mpa
+Partial safety factor governed yielding is    1.10
+Young's modulus of the material given is      200000.00 N/sq.m.
+
+
+***********************************************************************
+Selection of suitable section:
+
+Plastic Section modulus required=85.80 × 10^3 cu.mm. 
+
+Designing for economical beam w.r.t above section modulus :
+
+Test Beam #1
+
+Section Chosen is ISJB 200 @ 0.0970 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 200 mm
+Width of flange            (b)  = 60 mm
+Thickness of flange        (tb) = 5.0 mm
+Depth of web               (d)  = 180.0 mm
+Thickness of web           (tw) = 3.4 mm
+Elastic Section Modulus    (ze) = 78.10 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 90.89 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 6.00
+(d/tw) = 52.94
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Calculation of shear capacity
+
+Design shear force                 = 10.00 kN
+Design shear strength of section   = 89.23 kN
+
+ Check for high/low shear
+
+Design shear force = 10.00 kN
+0.6Vd              = 53.54 kN
+The case is of low shear
+
+ Check for Design Bending Strength
+
+Rigidity Modulus,G                            = 76.92 × 10^3 N/mm^3
+Young"s Modulus,E                             = 2.00 × 10^5 N/mm^3
+Effective Length,L_lt                         = 5000.00 mm
+Torsional Constant,I_t                        = 0.01 × 10^6 mm^4
+Warping Constant,I_w                          = 0.00 × 10^12 mm^6
+Lateral Torsional Buckling Moment,M_cr        = 3.12 kNm
+Non-Dimensional Slenderness Ratio,lembda_lt   = 2.70 <= 2.74 
+Imperfection Parameter,Alpha_lt               = 0.21, section is rolled
+Phi_lt                                        = 4.41 
+Bending Stress Reduction Factor,Xi_lt         = 0.13
+Design Bending Compressive Stress,f_bd        = 28.80 N/mm^2
+Design Bending Capacity,M_d                   = 2.62 kNm
+
+Factored Moment applied is greater than Design bending capacity of the section 
+Abandoning this section and choosing another....
+ 
+Test Beam #2
+
+Section Chosen is ISJC 175 @ 0.1098 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 175 mm
+Width of flange            (b)  = 60 mm
+Thickness of flange        (tb) = 6.9 mm
+Depth of web               (d)  = 147.2 mm
+Thickness of web           (tw) = 3.6 mm
+Elastic Section Modulus    (ze) = 82.30 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 94.22 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 4.35
+(d/tw) = 40.89
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Calculation of shear capacity
+
+Design shear force                 = 10.00 kN
+Design shear strength of section   = 82.67 kN
+
+ Check for high/low shear
+
+Design shear force = 10.00 kN
+0.6Vd              = 49.60 kN
+The case is of low shear
+
+ Check for Design Bending Strength
+
+Rigidity Modulus,G                            = 76.92 × 10^3 N/mm^3
+Young"s Modulus,E                             = 2.00 × 10^5 N/mm^3
+Effective Length,L_lt                         = 5000.00 mm
+Torsional Constant,I_t                        = 0.02 × 10^6 mm^4
+Warping Constant,I_w                          = 0.00 × 10^12 mm^6
+Lateral Torsional Buckling Moment,M_cr        = 7.72 kNm
+Non-Dimensional Slenderness Ratio,lembda_lt   = 1.75 <= 1.79 
+Imperfection Parameter,Alpha_lt               = 0.21, section is rolled
+Phi_lt                                        = 2.19 
+Bending Stress Reduction Factor,Xi_lt         = 0.29
+Design Bending Compressive Stress,f_bd        = 64.81 N/mm^2
+Design Bending Capacity,M_d                   = 6.11 kNm
+
+Factored Moment applied is greater than Design bending capacity of the section 
+Abandoning this section and choosing another....
+ 
+Test Beam #3
+
+Section Chosen is ISLB 150 @ 0.1392 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 150 mm
+Width of flange            (b)  = 80 mm
+Thickness of flange        (tb) = 6.8 mm
+Depth of web               (d)  = 117.4 mm
+Thickness of web           (tw) = 4.8 mm
+Elastic Section Modulus    (ze) = 91.80 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 104.50 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.88
+(d/tw) = 24.46
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Calculation of shear capacity
+
+Design shear force                 = 10.00 kN
+Design shear strength of section   = 94.48 kN
+
+ Check for high/low shear
+
+Design shear force = 10.00 kN
+0.6Vd              = 56.69 kN
+The case is of low shear
+
+ Check for Design Bending Strength
+
+Rigidity Modulus,G                            = 76.92 × 10^3 N/mm^3
+Young"s Modulus,E                             = 2.00 × 10^5 N/mm^3
+Effective Length,L_lt                         = 5000.00 mm
+Torsional Constant,I_t                        = 0.02 × 10^6 mm^4
+Warping Constant,I_w                          = 0.00 × 10^12 mm^6
+Lateral Torsional Buckling Moment,M_cr        = 9.15 kNm
+Non-Dimensional Slenderness Ratio,lembda_lt   = 1.69 <= 1.74 
+Imperfection Parameter,Alpha_lt               = 0.21, section is rolled
+Phi_lt                                        = 2.08 
+Bending Stress Reduction Factor,Xi_lt         = 0.30
+Design Bending Compressive Stress,f_bd        = 68.77 N/mm^2
+Design Bending Capacity,M_d                   = 7.19 kNm
+
+Factored Moment applied is greater than Design bending capacity of the section 
+Abandoning this section and choosing another....
+ 
+Test Beam #4
+
+Section Chosen is ISLC 150 @ 0.1411 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 150 mm
+Width of flange            (b)  = 75 mm
+Thickness of flange        (tb) = 7.8 mm
+Depth of web               (d)  = 118.4 mm
+Thickness of web           (tw) = 4.8 mm
+Elastic Section Modulus    (ze) = 93.00 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 106.07 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 4.81
+(d/tw) = 24.67
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Calculation of shear capacity
+
+Design shear force                 = 10.00 kN
+Design shear strength of section   = 94.48 kN
+
+ Check for high/low shear
+
+Design shear force = 10.00 kN
+0.6Vd              = 56.69 kN
+The case is of low shear
+
+ Check for Design Bending Strength
+
+Rigidity Modulus,G                            = 76.92 × 10^3 N/mm^3
+Young"s Modulus,E                             = 2.00 × 10^5 N/mm^3
+Effective Length,L_lt                         = 5000.00 mm
+Torsional Constant,I_t                        = 0.03 × 10^6 mm^4
+Warping Constant,I_w                          = 0.01 × 10^12 mm^6
+Lateral Torsional Buckling Moment,M_cr        = 14.67 kNm
+Non-Dimensional Slenderness Ratio,lembda_lt   = 1.34 <= 1.38 
+Imperfection Parameter,Alpha_lt               = 0.21, section is rolled
+Phi_lt                                        = 1.52 
+Bending Stress Reduction Factor,Xi_lt         = 0.45
+Design Bending Compressive Stress,f_bd        = 101.38 N/mm^2
+Design Bending Capacity,M_d                   = 10.75 kNm
+
+Factored Moment applied is greater than Design bending capacity of the section 
+Abandoning this section and choosing another....
+ 
+Test Beam #5
+
+Section Chosen is ISMB 150 @ 0.1460 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 150 mm
+Width of flange            (b)  = 80 mm
+Thickness of flange        (tb) = 7.6 mm
+Depth of web               (d)  = 116.8 mm
+Thickness of web           (tw) = 4.8 mm
+Elastic Section Modulus    (ze) = 96.90 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 110.48 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.26
+(d/tw) = 24.33
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Calculation of shear capacity
+
+Design shear force                 = 10.00 kN
+Design shear strength of section   = 94.48 kN
+
+ Check for high/low shear
+
+Design shear force = 10.00 kN
+0.6Vd              = 56.69 kN
+The case is of low shear
+
+ Check for Design Bending Strength
+
+Rigidity Modulus,G                            = 76.92 × 10^3 N/mm^3
+Young"s Modulus,E                             = 2.00 × 10^5 N/mm^3
+Effective Length,L_lt                         = 5000.00 mm
+Torsional Constant,I_t                        = 0.03 × 10^6 mm^4
+Warping Constant,I_w                          = 0.00 × 10^12 mm^6
+Lateral Torsional Buckling Moment,M_cr        = 10.02 kNm
+Non-Dimensional Slenderness Ratio,lembda_lt   = 1.66 <= 1.70 
+Imperfection Parameter,Alpha_lt               = 0.21, section is rolled
+Phi_lt                                        = 2.03 
+Bending Stress Reduction Factor,Xi_lt         = 0.31
+Design Bending Compressive Stress,f_bd        = 70.94 N/mm^2
+Design Bending Capacity,M_d                   = 7.84 kNm
+
+Factored Moment applied is greater than Design bending capacity of the section 
+Abandoning this section and choosing another....
+ 
+Test Beam #6
+
+Section Chosen is ISMC 150 @ 0.1607 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 150 mm
+Width of flange            (b)  = 75 mm
+Thickness of flange        (tb) = 9.0 mm
+Depth of web               (d)  = 112.0 mm
+Thickness of web           (tw) = 5.4 mm
+Elastic Section Modulus    (ze) = 103.90 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 119.82 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 4.17
+(d/tw) = 20.74
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Calculation of shear capacity
+
+Design shear force                 = 10.00 kN
+Design shear strength of section   = 106.28 kN
+
+ Check for high/low shear
+
+Design shear force = 10.00 kN
+0.6Vd              = 63.77 kN
+The case is of low shear
+
+ Check for Design Bending Strength
+
+Rigidity Modulus,G                            = 76.92 × 10^3 N/mm^3
+Young"s Modulus,E                             = 2.00 × 10^5 N/mm^3
+Effective Length,L_lt                         = 5000.00 mm
+Torsional Constant,I_t                        = 0.04 × 10^6 mm^4
+Warping Constant,I_w                          = 0.01 × 10^12 mm^6
+Lateral Torsional Buckling Moment,M_cr        = 17.46 kNm
+Non-Dimensional Slenderness Ratio,lembda_lt   = 1.31 <= 1.34 
+Imperfection Parameter,Alpha_lt               = 0.21, section is rolled
+Phi_lt                                        = 1.47 
+Bending Stress Reduction Factor,Xi_lt         = 0.46
+Design Bending Compressive Stress,f_bd        = 105.66 N/mm^2
+Design Bending Capacity,M_d                   = 12.66 kNm
+
+Factored Moment applied is greater than Design bending capacity of the section 
+Abandoning this section and choosing another....
+ 
+Test Beam #7
+
+Section Chosen is ISJB 225 @ 0.1254 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 225 mm
+Width of flange            (b)  = 80 mm
+Thickness of flange        (tb) = 5.0 mm
+Depth of web               (d)  = 202.0 mm
+Thickness of web           (tw) = 3.7 mm
+Elastic Section Modulus    (ze) = 116.30 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 134.15 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 8.00
+(d/tw) = 54.59
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Calculation of shear capacity
+
+Design shear force                 = 10.00 kN
+Design shear strength of section   = 109.24 kN
+
+ Check for high/low shear
+
+Design shear force = 10.00 kN
+0.6Vd              = 65.54 kN
+The case is of low shear
+
+ Check for Design Bending Strength
+
+Rigidity Modulus,G                            = 76.92 × 10^3 N/mm^3
+Young"s Modulus,E                             = 2.00 × 10^5 N/mm^3
+Effective Length,L_lt                         = 5000.00 mm
+Torsional Constant,I_t                        = 0.01 × 10^6 mm^4
+Warping Constant,I_w                          = 0.00 × 10^12 mm^6
+Lateral Torsional Buckling Moment,M_cr        = 6.16 kNm
+Non-Dimensional Slenderness Ratio,lembda_lt   = 2.33 <= 2.38 
+Imperfection Parameter,Alpha_lt               = 0.21, section is rolled
+Phi_lt                                        = 3.45 
+Bending Stress Reduction Factor,Xi_lt         = 0.17
+Design Bending Compressive Stress,f_bd        = 37.97 N/mm^2
+Design Bending Capacity,M_d                   = 5.09 kNm
+
+Factored Moment applied is greater than Design bending capacity of the section 
+Abandoning this section and choosing another....
+ 
+Test Beam #8
+
+Section Chosen is ISLB 175 @ 0.1637 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 175 mm
+Width of flange            (b)  = 90 mm
+Thickness of flange        (tb) = 6.9 mm
+Depth of web               (d)  = 142.2 mm
+Thickness of web           (tw) = 5.1 mm
+Elastic Section Modulus    (ze) = 125.30 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 143.30 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 6.52
+(d/tw) = 27.88
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Calculation of shear capacity
+
+Design shear force                 = 10.00 kN
+Design shear strength of section   = 117.11 kN
+
+ Check for high/low shear
+
+Design shear force = 10.00 kN
+0.6Vd              = 70.27 kN
+The case is of low shear
+
+ Check for Design Bending Strength
+
+Rigidity Modulus,G                            = 76.92 × 10^3 N/mm^3
+Young"s Modulus,E                             = 2.00 × 10^5 N/mm^3
+Effective Length,L_lt                         = 5000.00 mm
+Torsional Constant,I_t                        = 0.03 × 10^6 mm^4
+Warping Constant,I_w                          = 0.01 × 10^12 mm^6
+Lateral Torsional Buckling Moment,M_cr        = 12.61 kNm
+Non-Dimensional Slenderness Ratio,lembda_lt   = 1.69 <= 1.73 
+Imperfection Parameter,Alpha_lt               = 0.21, section is rolled
+Phi_lt                                        = 2.08 
+Bending Stress Reduction Factor,Xi_lt         = 0.30
+Design Bending Compressive Stress,f_bd        = 69.12 N/mm^2
+Design Bending Capacity,M_d                   = 9.90 kNm
+
+Factored Moment applied is greater than Design bending capacity of the section 
+Abandoning this section and choosing another....
+ 
+Test Beam #9
+
+Section Chosen is ISLC 175 @ 0.1725 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 175 mm
+Width of flange            (b)  = 75 mm
+Thickness of flange        (tb) = 9.5 mm
+Depth of web               (d)  = 140.0 mm
+Thickness of web           (tw) = 5.1 mm
+Elastic Section Modulus    (ze) = 131.30 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 150.36 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 3.95
+(d/tw) = 27.45
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Calculation of shear capacity
+
+Design shear force                 = 10.00 kN
+Design shear strength of section   = 117.11 kN
+
+ Check for high/low shear
+
+Design shear force = 10.00 kN
+0.6Vd              = 70.27 kN
+The case is of low shear
+
+ Check for Design Bending Strength
+
+Rigidity Modulus,G                            = 76.92 × 10^3 N/mm^3
+Young"s Modulus,E                             = 2.00 × 10^5 N/mm^3
+Effective Length,L_lt                         = 5000.00 mm
+Torsional Constant,I_t                        = 0.05 × 10^6 mm^4
+Warping Constant,I_w                          = 0.01 × 10^12 mm^6
+Lateral Torsional Buckling Moment,M_cr        = 21.30 kNm
+Non-Dimensional Slenderness Ratio,lembda_lt   = 1.33 <= 1.36 
+Imperfection Parameter,Alpha_lt               = 0.21, section is rolled
+Phi_lt                                        = 1.50 
+Bending Stress Reduction Factor,Xi_lt         = 0.45
+Design Bending Compressive Stress,f_bd        = 103.36 N/mm^2
+Design Bending Capacity,M_d                   = 15.54 kNm
+
+So,Design Bending Capacity is greater than applied Factored Moment
+which is all right!
+
+Check for deflection
+
+deflection of the beam is           4.35 mm
+allowable deflection of the beam is 33.33 mm
+
+Check for web buckling
+
+Assuming stiff bearing length, b  = 100 mm
+Ab                                = 956.25 sq.mm.
+KL                                = 98.00 mm
+Ieff                              = 1105.42 mm^4
+Aeff                              = 510.00 sq.mm
+r                                 = 1.47 mm
+lembda                            = 66.57 
+fcd                               = 157.50 N/sq.mm.
+Ab*fcd                            = 150.61 kN
+factored shear force              = 10.00 kN
+
+Check for web crippling
+
+n1                                = 43.75 mm
+Fw                                = 341.41 kN
+Design shear force                = 10.00 kN
+
+
+Result									 O.K.

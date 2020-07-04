@@ -1,0 +1,4291 @@
+Inputs:
+
+Factored shear is                             225.00 kN
+factored moment is                            562.50 kNm
+Effective span is                             5.00 m
+yield stress is                               250.00 Mpa
+Partial safety factor governed yielding is    1.10
+Young's modulus of the material given is      200000.00 N/sq.m.
+
+
+***********************************************************************
+Selection of suitable section:
+
+Plastic Section modulus required=3093.75 × 10^3 cu.mm. 
+
+Designing for economical beam w.r.t above section modulus :
+
+Test Beam #1
+
+Section Chosen is ISMB 600 @ 1.2015 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 210 mm
+Thickness of flange        (tb) = 20.8 mm
+Depth of web               (d)  = 518.4 mm
+Thickness of web           (tw) = 12.0 mm
+Elastic Section Modulus    (ze) = 3060.40 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 3510.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.05
+(d/tw) = 43.20
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 1.8022 kN/m
+Total load acting on the beam         = 181.8022 kN/m
+Maximum Bending Moment                = 568.13 kNm
+Plastic section modulus required      = 2499.78 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 3510.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 944.75 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 566.85 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 622436.36 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #2
+
+Section Chosen is ISWB 600 @ 1.3103 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 21.3 mm
+Depth of web               (d)  = 521.4 mm
+Thickness of web           (tw) = 11.2 mm
+Elastic Section Modulus    (ze) = 3540.00 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 3986.66 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.87
+(d/tw) = 46.55
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 1.9654 kN/m
+Total load acting on the beam         = 181.9654 kN/m
+Maximum Bending Moment                = 568.64 kNm
+Plastic section modulus required      = 2502.02 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 3986.66 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 881.77 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 529.06 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 759038.24 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #3
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #4
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #5
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #6
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #7
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #8
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #9
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #10
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #11
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #12
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #13
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #14
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #15
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #16
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #17
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #18
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #19
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #20
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #21
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #22
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #23
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #24
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #25
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #26
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #27
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #28
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #29
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #30
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #31
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #32
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #33
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #34
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #35
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #36
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #37
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #38
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #39
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #40
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #41
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #42
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #43
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #44
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #45
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #46
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #47
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #48
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #49
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #50
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #51
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #52
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #53
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #54
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #55
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #56
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #57
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #58
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #59
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #60
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #61
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #62
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #63
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #64
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #65
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #66
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #67
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #68
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #69
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #70
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #71
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #72
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #73
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #74
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #75
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #76
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #77
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #78
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #79
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #80
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #81
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #82
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #83
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #84
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #85
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #86
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #87
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #88
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+Test Beam #89
+
+Section Chosen is ISWB 600 @ 1.4220 kN/m
+
+ Properties of the section are as follows:
+Depth of Section           (h)  = 600 mm
+Width of flange            (b)  = 250 mm
+Thickness of flange        (tb) = 23.6 mm
+Depth of web               (d)  = 518.8 mm
+Thickness of web           (tw) = 11.8 mm
+Elastic Section Modulus    (ze) = 3854.20 × 10^3 cu.mm.
+Plastic Section Modulus    (zp) = 4341.63 × 10^3 cu.mm.
+
+ Section Classification
+epsilon = 1.00
+(b/tf) = 5.30
+(d/tw) = 43.97
+
+(b/tf) < 9.4*epsilon
+(d/tw) < 84*epsilon
+
+So, the section is plastic
+
+ Adequecy of the section
+
+Factored self weight of the beam      = 2.1330 kN/m
+Total load acting on the beam         = 182.1330 kN/m
+Maximum Bending Moment                = 569.17 kNm
+Plastic section modulus required      = 2504.33 × 10^3 cu.mm.
+Plastic section modulus of the beam   = 4341.63 × 10^3 cu.mm.
+
+ Calculation of shear capacity
+
+Design shear force                 = 225.00 kN
+Design shear strength of section   = 929.01 kN
+
+ Check for high/low shear
+
+Design shear force = 225.00 kN
+0.6Vd              = 557.41 kN
+The case is of low shear
+
+ Check for design bending strength of section
+
+Design bending strength of the section is 801166.53 
+Design bending strength of the semi compact section is less than factored moment 
+Abandoning this section and choosing another....
+ 
+
+ No Suitable beam was obtained
